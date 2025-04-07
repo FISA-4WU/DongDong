@@ -1,7 +1,7 @@
 ---
-name: "✨ Feature"
-about: 새로운 기능 추가
-title: "[FEAT] 00 기능"
+name: "\U0001F6E0️ Refactor"
+about: 리팩토링
+title: "[REFACTOR]"
 labels: ''
 assignees: ''
 
@@ -9,7 +9,7 @@ assignees: ''
 
 ## 📄 설명
 
-> 새로운 기능에 대한 설명을 작성해 주세요.
+> 리펙토링 대상과 이유에 대한 설명을 작성해 주세요.
 
 ## ✅ 작업할 내용
 
@@ -17,6 +17,10 @@ assignees: ''
 - [ ] TODO
 - [ ] TODO
 - [ ] TODO
+
+## 🎯 기대 효과
+
+> 리팩토링 후 기대하는 변화 작성
 
 ## 🙋🏻 참고 자료
 
